@@ -1,0 +1,4 @@
+root
+123
+ftp
+oracl
